@@ -1,0 +1,1 @@
+Hi Java testing file for Git testing.
